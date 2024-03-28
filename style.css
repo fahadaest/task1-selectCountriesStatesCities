@@ -1,0 +1,34 @@
+body {
+    background-color: #D8E2Eb;
+}
+
+.main-heading {
+    width: 300px;
+    margin: auto auto;
+    margin-top: 10%;
+    padding-top: 4%;
+    height: 7vh;
+}
+
+.container {
+    background-color: #a9b4c3;
+    width: 80%;
+    height: 40vh;
+}
+
+.dropdown-container {
+    margin-top: 7%;
+    width: 90%;
+    margin-left: 5%;
+    display: flex;
+    justify-content: space-between;
+    height: 10vh;
+}
+
+.dropdown {
+    width: 32%;
+}
+
+.custom-select {
+    height: 10vh;
+}
